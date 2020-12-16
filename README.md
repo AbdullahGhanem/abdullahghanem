@@ -4,8 +4,8 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=green&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abdullahghanem)
 
 <a href="https://github.com/abdullahghanem/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahghanem&count_private=true&show_icons=true&theme=vue&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahghanem&count_private=true&show_icons=true&theme=vue&hide_border=true" />
 </a> 
 <a href="https://github.com/abdullahghanem/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahghanem&layout=compact&theme=vue&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahghanem&layout=compact&theme=vue&hide_border=true" />
 </a>
