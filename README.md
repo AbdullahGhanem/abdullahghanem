@@ -26,14 +26,16 @@ Hi, I'm Abdullah Ghanem, senior fullStack developer from Egypt.
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
+<div class="d-flex flex-wrap list-style-none gutter-condensed mb-2 js-pinned-items-reorder-list">
 <p align="left">
-<a width="45%" align="left" href="https://github.com/abdullahghanem/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahghanem&count_private=true&show_icons=true&theme=vue&hide_border=true" />
-</a> 
-  </p>
+  <a width="45%" align="left" href="https://github.com/abdullahghanem/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahghanem&count_private=true&show_icons=true&theme=vue&hide_border=true" />
+  </a> 
+</p>
 
 <p align="right">
-<a width="45%" align="right" href="https://github.com/abdullahghanem/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahghanem&layout=compact&theme=vue&hide_border=true" />
-</a>
-    </p>
+  <a width="45%" align="right" href="https://github.com/abdullahghanem/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahghanem&layout=compact&theme=vue&hide_border=true" />
+  </a>
+</p>
+  </div>
