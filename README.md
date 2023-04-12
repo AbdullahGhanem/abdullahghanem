@@ -36,8 +36,8 @@ Hi, I'm Abdullah Ghanem, senior fullStack developer from Egypt.
 
 
 
+<p>📧 You can reach me at <a href="mailto:m.hassan.zahirnia@gmail.com"><b>m.hassan.zahirnia@gmail.com</b></a></p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
   <a width="45%" align="left" href="https://github.com/abdullahghanem/">
