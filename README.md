@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdullah+Ghanem;Welcome+to+My+Profile!;Over+6+years+of+programming+experience;Always+learning+new+things+;Laravel+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdullah+Ghanem;Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;Laravel+community+member)](https://git.io/typing-svg)
 
 <!-- ![](https://komarev.com/ghpvc/?username=AbdullahGhanem)
 [![Twitter URL](https://img.shields.io/static/v1?color=brightgreen&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/abdullahghanem)
