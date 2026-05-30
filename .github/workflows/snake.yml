@@ -11,25 +11,50 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
+# Default: no token privileges. Each job opts into only what it needs.
+permissions: {}
 
 jobs:
+  # Untrusted third-party generation runs WITHOUT a write token.
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: read
     steps:
       - name: Generate snake SVGs
-        uses: Platane/snk@v3
+        # Pinned to a commit SHA (not the mutable v3 tag) to prevent
+        # a re-tagged/compromised release from running with our token.
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Produce both a light and a dark variant
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Upload generated SVGs
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: snake-dist
+          path: dist
+          retention-days: 1
+
+  # Only the publish job holds contents:write.
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Download generated SVGs
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: snake-dist
+          path: dist
+
       - name: Push to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
           target_branch: output
           build_dir: dist
