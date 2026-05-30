@@ -1,17 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdullah+Ghanem;Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;Laravel+community+member)](https://git.io/typing-svg)
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
-<!-- ![](https://komarev.com/ghpvc/?username=AbdullahGhanem)
-[![Twitter URL](https://img.shields.io/static/v1?color=brightgreen&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/abdullahghanem)
-[![Instagram URL](https://img.shields.io/static/v1?color=brightgreen&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/abdullahghanem)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=brightgreen&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abdullahghanem) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F74A46&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Abdullah+Ghanem;Senior+Full-Stack+Developer;7%2B+years+of+programming+experience;Laravel+community+member;Always+learning+new+things+%F0%9F%9A%80)](https://github.com/abdullahghanem)
 
-[![Linkedin:Ghanem](https://img.shields.io/badge/-Ghanem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahghanem)](https://www.linkedin.com/in/abdullahghanem/)
-[![Instagram:Ghanem](https://img.shields.io/badge/-Ghanem-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yaseen_almahdi5/)](https://www.instagram.com/abdullahghanem/)
-[![Twitter:Ghanem](https://img.shields.io/badge/-Ghanem-1b9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/abdullahghanem/)](https://www.twitter.com/abdullahghanem/)
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/-Ghanem-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahghanem/)
+[![Instagram](https://img.shields.io/badge/-Ghanem-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abdullahghanem/)
+[![Twitter](https://img.shields.io/badge/-Ghanem-1b9bf0?style=flat-square&logo=x&logoColor=white)](https://www.twitter.com/abdullahghanem/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:3bdullah.ghanem@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/abdullahghanem?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=abdullahghanem&color=brightgreen">  
+![Profile views](https://komarev.com/ghpvc/?username=abdullahghanem&color=brightgreen)
 
+</div>
 
+<!-- ====================== BIO CODE BLOCK ====================== -->
 ```javascript
 import SoftwareDeveloper from 'ghanem';
 import { Languages, Frameworks } from 'ghanem/skills';
@@ -27,45 +29,106 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['Laravel', 'Vue', 'Nest.js', ...Frameworks];
 }
-
 ```
 
+<!-- ====================== ABOUT ====================== -->
+## 👨‍💻 About Me
 
-<br />
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="Coding" width="380" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
-Hi, I'm Abdullah Ghanem, senior fullStack developer from Egypt.
+Hi, I'm **Abdullah Ghanem** — a senior full-stack developer based in Cairo, Egypt 🇪🇬, with **7+ years** of experience building scalable web and mobile applications.
 
-- 🌱 I’m currently learning Machine learning
-- 👯 I’m looking to collaborate on [Github Laravel Rating](https://github.com/abdullahghanem/rating)
-- 💬 Ask me about anything [here](https://github.com/abdullahghanem/abdullahghanem/issues)
+- 🔭 I build production-grade apps with **Laravel**, **Vue**, **Nest.js** & **Flutter**
+- 🌱 I'm currently learning **Machine Learning**
+- 👯 I'm looking to collaborate on [**Laravel Rating**](https://github.com/abdullahghanem/rating)
+- 📦 Active **Laravel community** contributor & open-source maintainer
+- 💬 Ask me anything [**here**](https://github.com/abdullahghanem/abdullahghanem/issues)
 
-**Languages and Tools:**  
+<br clear="right"/>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<!-- ====================== TECH STACK ====================== -->
+## 🛠 Tech Stack
 
+**Languages**
 
+![Languages](https://skillicons.dev/icons?i=php,js,ts,dart,python,html,css)
 
-<p>📧 You can reach me at <a href="mailto:3bdullah.ghanem@gmail.com"><b>3bdullah.ghanem@gmail.com</b></a></p>
+**Frameworks & Libraries**
 
+![Frameworks](https://skillicons.dev/icons?i=laravel,vue,nestjs,flutter,bootstrap,tailwind)
 
+**Databases**
 
-  <a width="45%" align="left" href="https://github.com/abdullahghanem/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahghanem&count_private=true&show_icons=true&theme=vue&hide_border=true" />
-  </a> 
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis)
 
+**Tools & Platforms**
 
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode)
 
-  <a width="45%" align="right" href="https://github.com/abdullahghanem/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahghanem&layout=compact&theme=vue&hide_border=true" />
-  </a>
+<!-- ====================== CONTRIBUTION SNAKE ====================== -->
+## 🐍 Contribution Graph
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahghanem/abdullahghanem/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahghanem/abdullahghanem/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/abdullahghanem/abdullahghanem/output/github-snake.svg">
+</picture>
+
+<!-- ====================== GITHUB STATS ====================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahghanem&count_private=true&show_icons=true&theme=vue&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahghanem&layout=compact&theme=vue&hide_border=true" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=abdullahghanem&theme=vue&hide_border=true" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=abdullahghanem&theme=flat&no-frame=true&row=1&column=7&margin-w=8)
+
+</div>
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/abdullahghanem/quran-database">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahghanem&repo=quran-database&theme=vue&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/abdullahghanem/rating">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahghanem&repo=rating&theme=vue&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/abdullahghanem/quran-lumen-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahghanem&repo=quran-lumen-api&theme=vue&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/abdullahghanem/laravel-spa-iview">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahghanem&repo=laravel-spa-iview&theme=vue&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- ====================== CONTACT ====================== -->
+## 📫 Reach Me
+
+<div align="center">
+
+📧 <a href="mailto:3bdullah.ghanem@gmail.com"><b>3bdullah.ghanem@gmail.com</b></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahghanem/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdullahghanem/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/abdullahghanem/)
+
+<sub>⭐️ From <a href="https://github.com/abdullahghanem">Abdullah Ghanem</a></sub>
+
+</div>
