@@ -9,7 +9,6 @@
 [![Twitter](https://img.shields.io/badge/-Ghanem-1b9bf0?style=flat-square&logo=x&logoColor=white)](https://www.twitter.com/abdullahghanem/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:3bdullah.ghanem@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/abdullahghanem?label=Follow&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=abdullahghanem&color=brightgreen)
 
 </div>
 
@@ -79,12 +78,11 @@ Hi, I'm **Abdullah Ghanem** — a senior full-stack developer based in Cairo, Eg
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahghanem&count_private=true&show_icons=true&theme=vue&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahghanem&layout=compact&theme=vue&hide_border=true" />
+![Followers](https://img.shields.io/github/followers/abdullahghanem?style=for-the-badge&logo=github&color=42b883&labelColor=1a1a2e)
+![Profile views](https://komarev.com/ghpvc/?username=abdullahghanem&style=for-the-badge&color=42b883&labelColor=1a1a2e&label=PROFILE+VIEWS)
+![Years coding](https://img.shields.io/badge/EXPERIENCE-7%2B%20YEARS-42b883?style=for-the-badge&labelColor=1a1a2e)
 
-<img height="165" src="https://streak-stats.demolab.com?user=abdullahghanem&theme=vue&hide_border=true" />
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abdullahghanem&theme=flat&no-frame=true&row=1&column=7&margin-w=8)
+<img height="180" src="https://streak-stats.demolab.com?user=abdullahghanem&theme=vue&hide_border=true" />
 
 </div>
 
@@ -94,26 +92,33 @@ Hi, I'm **Abdullah Ghanem** — a senior full-stack developer based in Cairo, Eg
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/abdullahghanem/quran-database">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahghanem&repo=quran-database&theme=vue&hide_border=true" />
-      </a>
+      <b>📖 <a href="https://github.com/abdullahghanem/quran-database">quran-database</a></b><br/>
+      <sub>Complete Quran in a ready-to-use MySQL database.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/abdullahghanem/quran-database?style=flat-square&logo=github&color=42b883&labelColor=1a1a2e" />
+      <img src="https://img.shields.io/github/forks/abdullahghanem/quran-database?style=flat-square&logo=github&color=42b883&labelColor=1a1a2e" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/abdullahghanem/rating">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahghanem&repo=rating&theme=vue&hide_border=true" />
-      </a>
+      <b>⭐ <a href="https://github.com/abdullahghanem/rating">rating</a></b><br/>
+      <sub>A flexible rating system for Laravel.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/abdullahghanem/rating?style=flat-square&logo=github&color=42b883&labelColor=1a1a2e" />
+      <img src="https://img.shields.io/github/forks/abdullahghanem/rating?style=flat-square&logo=github&color=42b883&labelColor=1a1a2e" />
+      <img src="https://img.shields.io/github/languages/top/abdullahghanem/rating?style=flat-square&color=42b883&labelColor=1a1a2e" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/abdullahghanem/quran-lumen-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahghanem&repo=quran-lumen-api&theme=vue&hide_border=true" />
-      </a>
+      <b>🕌 <a href="https://github.com/abdullahghanem/quran-lumen-api">quran-lumen-api</a></b><br/>
+      <sub>Quran REST API built with Lumen.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/abdullahghanem/quran-lumen-api?style=flat-square&logo=github&color=42b883&labelColor=1a1a2e" />
+      <img src="https://img.shields.io/github/forks/abdullahghanem/quran-lumen-api?style=flat-square&logo=github&color=42b883&labelColor=1a1a2e" />
+      <img src="https://img.shields.io/github/languages/top/abdullahghanem/quran-lumen-api?style=flat-square&color=42b883&labelColor=1a1a2e" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/abdullahghanem/laravel-spa-iview">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahghanem&repo=laravel-spa-iview&theme=vue&hide_border=true" />
-      </a>
+      <b>🚀 <a href="https://github.com/abdullahghanem/laravel-spa-iview">laravel-spa-iview</a></b><br/>
+      <sub>Laravel SPA boilerplate / starter kit with iView.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/abdullahghanem/laravel-spa-iview?style=flat-square&logo=github&color=42b883&labelColor=1a1a2e" />
+      <img src="https://img.shields.io/github/forks/abdullahghanem/laravel-spa-iview?style=flat-square&logo=github&color=42b883&labelColor=1a1a2e" />
+      <img src="https://img.shields.io/github/languages/top/abdullahghanem/laravel-spa-iview?style=flat-square&color=42b883&labelColor=1a1a2e" />
     </td>
   </tr>
 </table>
