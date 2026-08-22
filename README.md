@@ -38,7 +38,7 @@ class Skills extends SoftwareDeveloper {
 
 <img align="right" alt="Coding" width="380" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
-Hi, I'm **Abdullah Ghanem** — Founder & CTO of [**GAIT**](https://gaitco.com) (Ghanem AI Technology), a Cairo-based studio building **AI solutions, web & mobile apps, and games** 🇪🇬. **7+ years** of shipping production software.
+Hi, I'm **Abdullah Ghanem** — Founder & CTO of [**GAIT**](https://gaitco.com) (Ghanem AI Technology), a Cairo-based studio building **AI solutions, web & mobile apps, and games** 🇪🇬. **10+ years** of shipping production software.
 
 - 🏢 Running **GAIT** — AI solutions, web & mobile development for clients across the region
 - 🤖 Building **AI-powered products**: LLM apps, agents, RAG and workflow automation
@@ -88,7 +88,7 @@ Hi, I'm **Abdullah Ghanem** — Founder & CTO of [**GAIT**](https://gaitco.com) 
 
 ![Followers](https://img.shields.io/github/followers/abdullahghanem?style=for-the-badge&logo=github&color=42b883&labelColor=1a1a2e)
 ![Profile views](https://komarev.com/ghpvc/?username=abdullahghanem&style=for-the-badge&color=42b883&labelColor=1a1a2e&label=PROFILE+VIEWS)
-![Years coding](https://img.shields.io/badge/EXPERIENCE-7%2B%20YEARS-42b883?style=for-the-badge&labelColor=1a1a2e)
+![Years coding](https://img.shields.io/badge/EXPERIENCE-10%2B%20YEARS-42b883?style=for-the-badge&labelColor=1a1a2e)
 
 <img height="180" src="https://streak-stats.demolab.com?user=abdullahghanem&theme=vue&hide_border=true" />
 
