@@ -66,7 +66,8 @@ Hi, I'm **Abdullah Ghanem** — Founder & CTO of [**GAIT**](https://gaitco.com) 
 
 **AI & Automation**
 
-![AI](https://skillicons.dev/icons?i=python,tensorflow,pytorch)
+![Python](https://skillicons.dev/icons?i=python)
+![LLM](https://img.shields.io/badge/LLM%20Apps-RAG%20%E2%80%A2%20Agents%20%E2%80%A2%20Automation-2a3154?style=for-the-badge&logo=openai&logoColor=white)
 
 **Tools & Platforms**
 
